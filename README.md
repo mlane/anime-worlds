@@ -4,6 +4,10 @@
 
 &nbsp;
 
+![Anime Worlds preview](https://github.com/mlane/anime-worlds/assets/13138738/58226e9c-bb0e-4223-af68-aadd652f2b9d)
+
+&nbsp;
+
 ### **Objectives:**
 
 - Complete the questline
