@@ -8,6 +8,12 @@
 
 &nbsp;
 
+### **Curseforge:**
+
+- [https://legacy.curseforge.com/minecraft/modpacks/anime-worlds](https://legacy.curseforge.com/minecraft/modpacks/anime-worlds)
+
+&nbsp;
+
 ### **Objectives:**
 
 - Complete the questline
