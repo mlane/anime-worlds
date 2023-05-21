@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "ae1c10d2",
+		type: "item",
+		items: [{
+			item: "otaku_world:shovelofthegods"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "89f9205e",
+		type: "ftbmoney:money",
+		ftb_money: 100000L
+	}]
+}

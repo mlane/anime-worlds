@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6a2bd060",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_grinder_double"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d752c185",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

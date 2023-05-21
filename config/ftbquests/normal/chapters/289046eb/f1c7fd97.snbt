@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "986f2438",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_greenhouse_glass"
+		}]
+	}],
+	rewards: [{
+		uid: "efa9334e",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

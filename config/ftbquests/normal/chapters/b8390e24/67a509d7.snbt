@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "8800c34d",
+		type: "item",
+		items: [{
+			item: "baublelicious:itemringofflight"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f2762a1c",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

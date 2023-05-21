@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "2d530eea",
+		type: "item",
+		items: [{
+			item: "kemonocraft:sandstar_sword_plus"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e56581ba",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

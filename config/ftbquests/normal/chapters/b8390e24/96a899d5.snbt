@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "b46082c7",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "828eddcc",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

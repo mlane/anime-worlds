@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a1026fcd",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:block_anvil"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0e8747b4",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

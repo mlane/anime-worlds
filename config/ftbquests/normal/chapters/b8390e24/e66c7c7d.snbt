@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1fe0d2f6",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:magic_net"
+		}]
+	}],
+	rewards: [{
+		uid: "9118a985",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

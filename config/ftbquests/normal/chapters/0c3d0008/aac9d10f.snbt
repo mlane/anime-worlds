@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "3128f4ad",
+		type: "item",
+		items: [{
+			item: "otaku_world:shovelpickaxeofthegods"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4a3e218d",
+		type: "ftbmoney:money",
+		ftb_money: 600000L
+	}]
+}

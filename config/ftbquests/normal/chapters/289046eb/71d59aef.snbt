@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "2787d7fd",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_furnace_double"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95bff757",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

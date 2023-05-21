@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "8daa088a",
+		type: "item",
+		items: [{
+			item: "otaku_world:diamondcoin"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e362478f",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	}]
+}

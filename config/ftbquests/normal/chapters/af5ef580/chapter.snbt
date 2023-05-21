@@ -1,0 +1,14 @@
+{
+	title: "Repeatables",
+	icon: {
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:zombie"
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

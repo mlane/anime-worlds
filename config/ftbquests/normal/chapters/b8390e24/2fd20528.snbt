@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "628bb188",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:sack_ender"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4b2d89d0",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

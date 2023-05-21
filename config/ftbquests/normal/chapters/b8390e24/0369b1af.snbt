@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "bf5562b4",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "91c061fd",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

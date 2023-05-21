@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "afc2fb69",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ae351a7d",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

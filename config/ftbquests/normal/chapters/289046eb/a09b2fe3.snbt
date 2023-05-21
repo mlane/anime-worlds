@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "793caebd",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}],
+		count: 4L,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "39a5774a",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d6090473",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

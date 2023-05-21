@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a3f36d51",
+		type: "kill",
+		entity: "otaku_world:cell1",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c1c0e989",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

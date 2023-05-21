@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b32cfe14",
+		type: "item",
+		items: [{
+			item: "kemonocraft:japari_coin"
+		}]
+	}],
+	rewards: [{
+		uid: "15f408b5",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

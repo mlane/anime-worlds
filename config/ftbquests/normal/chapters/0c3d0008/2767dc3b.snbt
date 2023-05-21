@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "483b83a8",
+		type: "item",
+		items: [{
+			item: "otaku_world:katchinshovelpickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7951ac1f",
+		type: "ftbmoney:money",
+		ftb_money: 8000L
+	}]
+}

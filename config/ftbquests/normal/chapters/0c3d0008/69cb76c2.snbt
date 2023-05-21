@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "fcb29468",
+		type: "item",
+		items: [{
+			item: "otaku_world:katchintsword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ddbd542b",
+		type: "ftbmoney:money",
+		ftb_money: 4000L
+	}]
+}

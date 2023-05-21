@@ -1,0 +1,7 @@
+{
+	title: "Touhou Little Maids",
+	icon: "touhou_little_maid:smart_slab",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

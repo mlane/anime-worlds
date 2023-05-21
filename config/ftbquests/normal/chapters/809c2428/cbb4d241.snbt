@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "075fa0fb",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:maid_bed"
+		}]
+	}],
+	rewards: [{
+		uid: "fa1068aa",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

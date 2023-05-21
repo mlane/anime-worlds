@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7b6b3a04",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:potion_guide"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d2d8c961",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

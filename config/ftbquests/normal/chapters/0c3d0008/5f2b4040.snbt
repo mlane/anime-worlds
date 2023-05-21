@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "b82c1807",
+		type: "item",
+		items: [{
+			item: "otaku_world:fluorescentpickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "24abe080",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

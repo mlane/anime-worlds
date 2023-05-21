@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f0a02cea",
+		type: "item",
+		items: [{
+			id: "touhou_little_maid:hakurei_gohei",
+			tag: {
+				GoheiMode: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "78343819",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "87308161",
+		type: "kill",
+		entity: "otaku_world:cell1",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "89f2ad23",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

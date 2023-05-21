@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "d03f85db",
+		type: "item",
+		items: [{
+			item: "otaku_world:goldenfreezercosplayhelmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9915b5b0",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

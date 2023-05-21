@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "c34ed51b",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:portable_audio"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0d184db9",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

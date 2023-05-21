@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "e6bab0eb",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_5"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "30ec81e9",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

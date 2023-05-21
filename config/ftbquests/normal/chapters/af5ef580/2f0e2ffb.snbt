@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "cf44b7d2",
+		type: "item",
+		items: [{
+			item: "otaku_world:stoneofthegods"
+		}]
+	}],
+	rewards: [{
+		uid: "8d7d3b7a",
+		type: "ftbmoney:money",
+		ftb_money: 50000L
+	}]
+}

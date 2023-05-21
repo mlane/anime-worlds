@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e64c73dd",
+		type: "item",
+		items: [{
+			item: "otaku_world:vegetacosplayhelmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d7a8d494",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

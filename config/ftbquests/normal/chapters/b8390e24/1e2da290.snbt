@@ -1,0 +1,26 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b6fa2954",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 10L
+	},
+	{
+		uid: "5e25688f",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5fee166d",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

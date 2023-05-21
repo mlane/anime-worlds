@@ -1,0 +1,22 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "856d7284",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "e8de19a8",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	},
+	{
+		uid: "9d64bf3c",
+		type: "item",
+		item: "randomloot:titan_case",
+		count: 20
+	}]
+}

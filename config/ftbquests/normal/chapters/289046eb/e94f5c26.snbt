@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "f6d9dc71",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxcontroller"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "04cfa008",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

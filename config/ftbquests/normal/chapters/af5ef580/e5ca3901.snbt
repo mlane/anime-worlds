@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c510d5d2",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b95b7dcc",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

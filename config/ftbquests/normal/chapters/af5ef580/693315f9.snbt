@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "b2602144",
+		type: "kill",
+		entity: "otaku_world:freezer1",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "129431db",
+		type: "ftbmoney:money",
+		ftb_money: 20000L
+	}]
+}

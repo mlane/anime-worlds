@@ -1,0 +1,18 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e8d143df",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:tool_harvest_crops"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9cddee6d",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

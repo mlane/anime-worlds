@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b4bbe598",
+		type: "item",
+		items: [{
+			item: "kemonocraft:turmeric"
+		}]
+	}],
+	rewards: [{
+		uid: "6a571afa",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "91ad4655",
+		type: "item",
+		items: [{
+			item: "otaku_world:goldcoin"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1929c95c",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

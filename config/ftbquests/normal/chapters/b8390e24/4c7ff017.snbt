@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "d6c68269",
+		type: "item",
+		items: [{
+			item: "randomloot:titan_case"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1fa1c18e",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

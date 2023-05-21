@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2fe0ee1b",
+		type: "item",
+		items: [{
+			item: "kemonocraft:sandstar_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4f379c1d",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

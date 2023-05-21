@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "1c013afa",
+		type: "item",
+		items: [{
+			item: "otaku_world:senzu"
+		}]
+	}],
+	rewards: [{
+		uid: "3bcab8ee",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

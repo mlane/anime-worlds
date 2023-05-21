@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "f845355a",
+		type: "item",
+		items: [{
+			item: "otaku_world:swordofthegods"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1f506428",
+		type: "ftbmoney:money",
+		ftb_money: 200000L
+	}]
+}

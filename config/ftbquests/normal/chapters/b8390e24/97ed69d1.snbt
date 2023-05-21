@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "31ddb76a",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "99293354",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

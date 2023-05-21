@@ -1,0 +1,18 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f45978c5",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:ender_eye_orb"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0ffc2579",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f530a222",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:furnace_guide"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "123e7f3d",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

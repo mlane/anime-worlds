@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "db60bbac",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "77203372",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 8.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "1dc5e8ed",
+		type: "item",
+		items: [{
+			item: "otaku_world:pickaxeofthegods"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dc0a8243",
+		type: "ftbmoney:money",
+		ftb_money: 300000L
+	}]
+}

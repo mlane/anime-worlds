@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f118cc55",
+		type: "item",
+		items: [{
+			item: "akashictome:tome"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "991b08e0",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

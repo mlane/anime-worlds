@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "33e626d4",
+		type: "item",
+		items: [{
+			item: "storagedrawers:controller"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "34675622",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

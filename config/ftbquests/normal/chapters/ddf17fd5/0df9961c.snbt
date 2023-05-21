@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "babaf906",
+		type: "item",
+		items: [{
+			item: "kemonocraft:rice"
+		}]
+	}],
+	rewards: [{
+		uid: "164374ad",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

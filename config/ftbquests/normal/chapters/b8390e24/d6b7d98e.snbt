@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0e840946",
+		type: "item",
+		items: [{
+			item: "randomloot:repair_station"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73d2569b",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

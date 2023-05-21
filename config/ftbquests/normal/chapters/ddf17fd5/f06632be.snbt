@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "861fcc8d",
+		type: "item",
+		icon: "kemonocraft:sandstar_block",
+		items: [{
+			item: ""
+		}]
+	}],
+	rewards: [{
+		uid: "d74fe098",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

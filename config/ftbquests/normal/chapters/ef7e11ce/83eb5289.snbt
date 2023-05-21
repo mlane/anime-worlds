@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "85d8ccb0",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "089db2e8",
+		type: "ftbmoney:money",
+		ftb_money: 1000000L
+	}]
+}

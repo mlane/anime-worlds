@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "5a683b97",
+		type: "item",
+		items: [{
+			item: "kemonocraft:ingot 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "7c070d5f",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

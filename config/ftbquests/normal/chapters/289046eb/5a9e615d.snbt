@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "f4347b72",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_farmer"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1e34e018",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}
