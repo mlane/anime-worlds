@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "cyclicmagic:magic_net"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "9118a985",

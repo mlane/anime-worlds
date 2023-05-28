@@ -1,20 +1,18 @@
 {
-	x: 1.5d,
-	y: 4.5d,
+	x: 2.0d,
+	y: 5.5d,
 	tasks: [{
-		uid: "acadfe89",
+		uid: "e42d49ad",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:book_ender",
-			tag: {},
-			Count: 1b
+			item: "otaku_world:korosenseicosplayhelmet"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "8d0215e6",
+		uid: "aea749a8",
 		type: "ftbmoney:money",
-		ftb_money: 1000L
+		ftb_money: 10000L
 	}]
 }

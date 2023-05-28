@@ -1,16 +1,17 @@
 {
-	x: 0.0d,
-	y: 4.5d,
+	x: 3.5d,
+	y: 2.5d,
 	tasks: [{
-		uid: "7cd0679a",
+		uid: "3911727e",
 		type: "item",
 		items: [{
-			item: "actuallyadditions:block_giant_chest_large"
+			item: "otaku_world:kanedabike"
 		}],
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "d1e87704",
+		uid: "7c98f539",
 		type: "ftbmoney:money",
 		ftb_money: 10000L
 	}]

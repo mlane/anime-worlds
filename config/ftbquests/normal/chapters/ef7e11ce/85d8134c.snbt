@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "actuallyadditions:block_misc 1 4"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "37aa7cd2",

@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			item: "actuallyadditions:block_giant_chest"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "fd7fa1fb",

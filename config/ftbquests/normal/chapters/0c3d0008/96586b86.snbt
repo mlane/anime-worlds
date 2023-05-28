@@ -1,16 +1,18 @@
 {
-	x: 0.0d,
-	y: 4.5d,
+	x: 3.5d,
+	y: 4.0d,
 	tasks: [{
-		uid: "7cd0679a",
+		uid: "3d32ae0e",
 		type: "item",
 		items: [{
-			item: "actuallyadditions:block_giant_chest_large"
+			item: "otaku_world:skipjacktuna"
 		}],
+		count: 16L,
+		consume_items: false,
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "d1e87704",
+		uid: "370f6af4",
 		type: "ftbmoney:money",
 		ftb_money: 10000L
 	}]

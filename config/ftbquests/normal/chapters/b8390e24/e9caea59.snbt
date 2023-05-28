@@ -1,16 +1,16 @@
 {
-	x: 0.0d,
+	x: 1.5d,
 	y: 4.5d,
 	tasks: [{
-		uid: "7cd0679a",
+		uid: "f1d089d9",
 		type: "item",
 		items: [{
-			item: "actuallyadditions:block_giant_chest_large"
+			item: "minecraft:book"
 		}],
-		ignore_nbt: 1b
+		count: 64L
 	}],
 	rewards: [{
-		uid: "d1e87704",
+		uid: "50f85221",
 		type: "ftbmoney:money",
 		ftb_money: 10000L
 	}]
